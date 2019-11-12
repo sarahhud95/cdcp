@@ -1,0 +1,80 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+ <id>7864273456353651218</id>
+ <updated>2019-11-12T13:56:44+01:00</updated>
+ <opensearch:startIndex>0</opensearch:startIndex>
+ <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+ <opensearch:totalResults>2000</opensearch:totalResults>
+ <title type="text">Results of the OpenGrey search: discipline:(05*)Colombia or Choco OR El Choco OR Choco Department OR Bogota OR Quibdo OR Istmina OR Condoto OR Novita OR El Carmen OR Acandi OR Solano OR Afro-American OR Afro-Colombian OR Embera OR Native American OR child OR infant OR minor OR toddler OR baby OR babies OR teen OR teenager OR youth OR young people OR adolescent OR famil OR orphan OR communit OR district OR societ OR local OR villag OR grassroot OR urban neighbourhood OR urban neighborhood OR neighbourhood OR neighborhood OR refugee camp OR internally displaced person camp OR camp OR collective OR maltreat OR protection OR abuse OR violence OR neglect OR exploitation OR welfare OR care OR support</title>
+ <link type="text/xml" href="http://www.opengrey.eu/search/request?q=discipline:(05*)Colombia or Choco OR El Choco OR Choco Department OR Bogota OR Quibdo OR Istmina OR Condoto OR Novita OR El Carmen OR Acandi OR Solano OR Afro-American OR Afro-Colombian OR Embera OR Native American OR child OR infant OR minor OR toddler OR baby OR babies OR teen OR teenager OR youth OR young people OR adolescent OR famil OR orphan OR communit OR district OR societ OR local OR villag OR grassroot OR urban neighbourhood OR urban neighborhood OR neighbourhood OR neighborhood OR refugee camp OR internally displaced person camp OR camp OR collective OR maltreat OR protection OR abuse OR violence OR neglect OR exploitation OR welfare OR care OR support"/>
+ <opensearch:Query opensearch:searchTerms="discipline:(05*)Colombia or Choco OR El Choco OR Choco Department OR Bogota OR Quibdo OR Istmina OR Condoto OR Novita OR El Carmen OR Acandi OR Solano OR Afro-American OR Afro-Colombian OR Embera OR Native American OR child OR infant OR minor OR toddler OR baby OR babies OR teen OR teenager OR youth OR young people OR adolescent OR famil OR orphan OR communit OR district OR societ OR local OR villag OR grassroot OR urban neighbourhood OR urban neighborhood OR neighbourhood OR neighborhood OR refugee camp OR internally displaced person camp OR camp OR collective OR maltreat OR protection OR abuse OR violence OR neglect OR exploitation OR welfare OR care OR support" opensearch:startPage="0" opensearch:role="request"/>
+ <entry>
+  <id>source_og#/content#/834878</id>
+  <published>2009-06-01T00:00:00+02:00</published>
+  <updated>2009-06-01T00:00:00+02:00</updated>
+  <title type="text">Health and ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/834878"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/1000807</id>
+  <published>2010-06-01T00:00:00+02:00</published>
+  <updated>2010-06-01T00:00:00+02:00</updated>
+  <title type="text">Intentional community : a qualitative analysis of social ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/1000807"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/998512</id>
+  <published>2009-06-01T00:00:00+02:00</published>
+  <updated>2009-06-01T00:00:00+02:00</updated>
+  <title type="text">Ordinary security : an ethnography of security practices and ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/998512"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/1018899</id>
+  <published>2009-06-01T00:00:00+02:00</published>
+  <updated>2009-06-01T00:00:00+02:00</updated>
+  <title type="text">Growing up in a fragmented world (the case of poor ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/1018899"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/971221</id>
+  <published>2003-06-01T00:00:00+02:00</published>
+  <updated>2003-06-01T00:00:00+02:00</updated>
+  <title type="text">Comparing area based and thematic social inclusion partnerships ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/971221"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/998475</id>
+  <published>2009-06-01T00:00:00+02:00</published>
+  <updated>2009-06-01T00:00:00+02:00</updated>
+  <title type="text">Children's work : experiences of street vending children and ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/998475"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/1020173</id>
+  <published>2011-06-01T00:00:00+02:00</published>
+  <updated>2011-06-01T00:00:00+02:00</updated>
+  <title type="text">The implication of the State and the communities in the process ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/1020173"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/550327</id>
+  <published>2002-06-01T00:00:00+02:00</published>
+  <updated>2002-06-01T00:00:00+02:00</updated>
+  <title type="text">Child...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/550327"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/893330</id>
+  <published>2012-06-01T00:00:00+02:00</published>
+  <updated>2012-06-01T00:00:00+02:00</updated>
+  <title type="text">The future of orphans in Burundi (analysis of the consequences ...</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/893330"/>
+ </entry>
+ <entry>
+  <id>source_og#/content#/987822</id>
+  <published>2011-06-01T00:00:00+02:00</published>
+  <updated>2011-06-01T00:00:00+02:00</updated>
+  <title type="text">Under the hood : the mechanics of London's street gangs</title>
+  <link type="text/html" href="http://www.opengrey.eu/handle/10068/987822"/>
+ </entry>
+</feed>
